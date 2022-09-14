@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("IMG-20220527-WA0001.jpg");
+    height: 100px;
+    background-size: bottom;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white
+}
